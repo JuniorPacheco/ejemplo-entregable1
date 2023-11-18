@@ -5,6 +5,10 @@
   justify-items: center;
 }
 
+.quotebox__title {
+  font-size: 40px;
+}
+
 .quotebox__author {
   position: absolute;
   bottom: 10px;
